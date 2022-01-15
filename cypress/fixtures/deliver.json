@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Carlos Queiroz",
+    "cpf": "00000014141",
+    "email": "teste@teste.com",
+    "whatsapp": "31999999999",
+    "address": {
+      "postalcode": "31010150",
+      "street": "Rua Nefelina",
+      "number": "105",
+      "details": "Casa D",
+      "district": "Santa Tereza",
+      "city_state": "Belo Horizonte/MG"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Cpf inválido",
+    "cpf": "x00000141AA",
+    "email": "teste@teste.com",
+    "whatsapp": "31999999999",
+    "address": {
+      "postalcode": "31010150",
+      "street": "Rua Nefelina",
+      "number": "105",
+      "details": "Casa D",
+      "district": "Santa Tereza",
+      "city_state": "Belo Horizonte/MG"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Cpf inválido",
+    "cpf": "00000014141",
+    "email": "teste.com",
+    "whatsapp": "31999999999",
+    "address": {
+      "postalcode": "31010150",
+      "street": "Rua Nefelina",
+      "number": "105",
+      "details": "Casa D",
+      "district": "Santa Tereza",
+      "city_state": "Belo Horizonte/MG"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  }
+}
